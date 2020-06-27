@@ -1,7 +1,7 @@
 # Allstate Claims Severity Project
 
 
-This project is a crack at Kaggle's Allstate Severity Claims competition (https://www.kaggle.com/c/allstate-claims-severity) on Kaggle. This was made as motivation for a Capstone Project for Udacity's Machine Learning Engineer Nanodegree. 
+This project is a submission to Kaggle's Allstate Severity Claims competition (https://www.kaggle.com/c/allstate-claims-severity) on Kaggle. This was made as motivation for a Capstone Project for Udacity's Machine Learning Engineer Nanodegree. 
 
 The project consists of two main parts:
 <ol>
